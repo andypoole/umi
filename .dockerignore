@@ -1,0 +1,9 @@
+# Files to ignore when copying into a Docker container
+.dockerignore
+.DS_Store
+.gitignore
+.git
+dist
+Dockerfile
+node_modules
+README.md
